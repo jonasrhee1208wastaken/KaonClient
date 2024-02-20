@@ -1,0 +1,25 @@
+{
+  "name": "next-app-template",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "node startup.js",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^2.0.1",
+    "autoprefixer": "10.4.15",
+    "clsx": "^2.0.0",
+    "framer-motion": "^10.16.2",
+    "iconsax-react": "^0.0.8",
+    "next": "13.4.19",
+    "next-themes": "^0.2.1",
+    "postcss": "8.4.29",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.3",
+    "tailwindcss-animate": "^1.0.7"
+  }
+}
